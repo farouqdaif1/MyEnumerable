@@ -30,6 +30,12 @@ ruby list.rb
 - Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
 - LinkedIn: [@Daniel Yerimah](https://linkedin.com/in/daniel-yerimah)
 
+👤 **Bertrand Mutangana Ishimwe**
+
+- GitHub: [@BertrandConxy](https://github.com/BertrandConxy)
+- Twitter: [@Bconxy](https://twitter.com/BertrandMutanga)
+- LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/bertrandmutangana)
+
 
 ## 🤝 Contributing
 
