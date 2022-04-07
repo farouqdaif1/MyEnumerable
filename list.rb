@@ -7,11 +7,12 @@ class MyList
     @list = list
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each
+    0.upto(@list.length - 1) do |x|
+      yield @list[x]
+    end
   end
 end
-
 list = MyList.new(1, 2, 3, 4)
 
 puts(list.my_all? { |e| e < 5 })
