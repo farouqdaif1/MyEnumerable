@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # MyEnumerable
-
+In this project I learn how to use a module inside a class. For this I will create a class MyList and a module MyEnumerable. my module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## Built With
 - Ruby
